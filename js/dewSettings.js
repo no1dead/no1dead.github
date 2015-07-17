@@ -966,17 +966,7 @@ var user = {
 			        "LAST RESORT" : "Remote industrial sites like this one are routinely requisitioned and used as part of Spartan training exercises.",
 			        "LONGSHORE" : "Abandoned during the invasion of Earth, the Mombasa Quays are now bereft of commerce, but rife with danger.",
 			        */
-			"NARROWS": "Without cooling systems such as these, excess heat from the Ark's forges would render the construct uninhabitable.",
-			/*
-			        "ORBITAL" : "With a lot of situational awareness, and a little luck, hopefully the only thing you will lose is your luggage.",
-			        "RAT NEST" : "Snowmelt from Kilimanjaro feeds reservoirs every bit as vital as the fuel and ammunition stores.",
-			        "SANDBOX" : "This endless wasteland still holds many secrets. Some of them are held more deeply than others.",
-			        "SANDTRAP" : "Although the Brute occupiers have been driven from this ancient structure, they left plenty to remember them by.",
-			        "SNOWBOUND" : "Hostile conditions did not prevent the Covenant from seeking salvage on this buried Forerunner construct.",
-			        */
-			"STANDOFF": "Once, nearby telescopes listened for a message from the stars. Now, these silos contain our prepared response.",
-			"THE PIT": "Software simulations are held in contempt by the veteran instructors who run these training facilities.",
-			/*
+	/*
 			        "VALHALLA" : "The crew of V-398 barely survived their unplanned landing in this gorge... this curious gorge."*/
 		}
 	};
