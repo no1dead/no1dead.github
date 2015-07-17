@@ -433,10 +433,10 @@ $(document).ready(function() {
 			gamepadSelect(currentMenu + "-" + p_gp_on);
 		}
 	});
-    if(getURLParameter('browser')) {
+    //if(getURLParameter('browser')) {
         changeMenu("main2-main");
         changeMenu("main-serverbrowser");
-    }
+    //}
 });
 
 
