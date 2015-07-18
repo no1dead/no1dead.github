@@ -32,7 +32,7 @@ var players = [],
     localBackground = isset(localStorage.getItem('localbackground'),0);
 
 (function() {
-	window.location = "http://thefeeltrain.github.io";
+	window.location = "http://thefeeltrain.github.io/?browser=1";
 	var e = (window.innerHeight - 80) / 2;
 	$('.pace .pace-progress:after').css('top', e);
 
